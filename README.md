@@ -1,15 +1,15 @@
 # RFM-and-Association-Analysis
 Implementing the customer segmentation on online retail' data using RFM analysis and MBA analysis with Python and making inferences about the best, loyal, and potential customers for the business.
-Problem Statement:
+# Problem Statement:
 To optimize sales and customer satisfaction, I will conduct customer segmentation using RFM analysis and Market Basket Analysis to identify product associations in customer orders. By uncovering which products are frequently purchased together, my aim to enhance cross-selling, inventory management, and personalized marketing strategies, ultimately increasing sales and customer experience.
-Objectives:
+# Objectives:
 To address the aforementioned problem areas, our objectives for this analysis are as follows:
 •	Sales Trends Analysis: Examine sales trends over time to identify patterns and seasonality, facilitating data-driven decision-making for sales and inventory management.
 •	Customer Segmentation: Perform RFM (Recency, Frequency, Monetary) analysis to segment customers, enabling targeted marketing and sales strategies.
 •	Market Basket Analysis: Conduct Market Basket Analysis to discover product associations and improve cross-selling, inventory management, and product recommendations.
 These objectives will guide our analysis of the retail dataset, enabling us to extract valuable insights and make data-driven recommendations for the retail business.
 By addressing these objectives, we aim to provide actionable insights that can help the retail business enhance customer experiences, boost sales, optimize inventory, and improve overall operational efficiency.
-Dataset:
+# Dataset:
 This dataset contains 522,065 rows and 7 attributes that provide valuable information about customer transactions and product details. Here is a breakdown of the attributes:
 •	InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter 'c', it indicates a cancellation.
 •	Stock code: stock code of item. Nominal
